@@ -68,9 +68,6 @@ a:hover {
     .js .nav-collapse.closed {
         max-height: none;
     }
-    .nav-toggle {
-        /* display: none; */
-    }
 }
 
 body {
@@ -282,13 +279,7 @@ header {
 .home-image {
     background-image: url(../img/AboutUs.jpg);
     height: 100%;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-/* 
-@media screen and (min-width: 45em) {
-    
-} */
