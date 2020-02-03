@@ -92,10 +92,11 @@ h1 {
     margin-bottom: .5em;
 }
 
-p {
+
+/* p {
     width: 90%;
     margin: 0 auto;
-}
+} */
 
 header {
     background: #000000;
@@ -288,13 +289,12 @@ header {
 #home {
     background-image: url(../img/AboutUs.jpg);
     background-size: cover;
-    min-height: 100% !important;
-    position: relative;
-    background-position: center;
+    background-position: right;
 }
 
-#Become-Member {
-    background-image: url(../img/AboutUs.jpg);
-    background-size: cover;
-    background-position: right;
+.texty {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    bottom: 100px;
 }
