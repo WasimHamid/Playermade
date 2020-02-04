@@ -84,7 +84,7 @@ body {
         border-bottom: 1px solid #999;
         text-align: center;
         padding: 100px 0 0;
-        height: 600px;
+        height: 650px;
         width: 100%;
         background: #000000;
     }
@@ -99,6 +99,12 @@ body {
         width: 100%;
         background: #000000;
     }
+}
+
+.screen {
+    overflow-x: hidden;
+    padding-bottom: 2.5rem;
+    padding-top: 7.5rem;
 }
 
 h1 {
@@ -265,11 +271,6 @@ header {
     content: "\78";
 }
 
-.map {
-    position: relative;
-    bottom: 0;
-}
-
 .footer {
     border-top: 1px solid hsla(0, 0%, 100%, .2);
     text-align: center;
@@ -286,25 +287,45 @@ header {
     top: 55px;
 }
 
-#Become-Member {
-    background-image: url(../img/AboutUs.jpg);
-    background-size: cover;
-    background-position: right;
+@media screen and (max-width: 45em) {
+    .text {
+        color: white;
+        margin: 45px;
+        position: absolute;
+        top: 70%;
+        font-family: "ProximaBlack", Times, serif;
+        font-size: 1.25rem;
+        font-weight: 300;
+        letter-spacing: 0;
+        line-height: 1.4;
+    }
 }
 
 #home {
-    background-image: url(../img/test.jpg);
+    background-image: url(../img/About.jpg);
     background-size: cover;
     background-position: right;
 }
 
-.texty {
-    color: white;
-    position: absolute;
-    top: 75%;
-    font-family: "ProximaBlack", Times, serif;
-    font-size: 20px;
-    line-height: 30px;
-    font-weight: 400;
-    max-width: 350px
+.layout {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100em;
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+    width: 100%;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+#Become-Member {
+    background-image: url(../img/test2.jpg);
+    background-size: cover;
+    background-position: left;
 }
