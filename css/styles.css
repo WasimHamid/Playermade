@@ -79,21 +79,23 @@ body {
     font: normal 100%/1.4 sans-serif;
 }
 
-section {
-    border-bottom: 1px solid #999;
-    text-align: center;
-    padding: 100px 0 0;
-    height: 600px;
-    width: 100%;
-    background: #000000;
-}
-
-@media screen and (min-width: 1025px) and (max-width: 1500px) {
+@media screen and (max-width: 1019px) {
     section {
         border-bottom: 1px solid #999;
         text-align: center;
         padding: 100px 0 0;
-        height: 800px;
+        height: 600px;
+        width: 100%;
+        background: #000000;
+    }
+}
+
+@media screen and (min-width: 1020px) and (max-width: 1500px) {
+    section {
+        border-bottom: 1px solid #999;
+        text-align: center;
+        padding: 100px 0 0;
+        height: 850px;
         width: 100%;
         background: #000000;
     }
@@ -102,12 +104,6 @@ section {
 h1 {
     margin-bottom: .5em;
 }
-
-
-/* p {
-    width: 90%;
-    margin: 0 auto;
-} */
 
 header {
     background: #000000;
@@ -290,8 +286,14 @@ header {
     top: 55px;
 }
 
-#home {
+#Become-Member {
     background-image: url(../img/AboutUs.jpg);
+    background-size: cover;
+    background-position: right;
+}
+
+#home {
+    background-image: url(../img/test.jpg);
     background-size: cover;
     background-position: right;
 }
@@ -300,7 +302,7 @@ header {
     color: white;
     position: absolute;
     top: 75%;
-    font-family: 'proxima-nova';
+    font-family: "ProximaBlack", Times, serif;
     font-size: 20px;
     line-height: 30px;
     font-weight: 400;
