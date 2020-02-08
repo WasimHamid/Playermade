@@ -88,7 +88,7 @@ body {
         border-bottom: 1px solid #999;
         text-align: center;
         padding: 100px 0 0;
-        height: 630px;
+        height: 600px;
         width: 100%;
         background: #000000;
     }
@@ -301,7 +301,7 @@ header {
         letter-spacing: 0;
         line-height: 1.4;
         position: absolute;
-        bottom: 7%;
+        bottom: 3%;
     }
 }
 
@@ -335,7 +335,7 @@ header {
     .card {
         display: grid;
         grid-template-columns: 250px;
-        grid-template-rows: 150px 330px 50px;
+        grid-template-rows: 150px 350px 50px;
         grid-template-areas: "image" "text";
         border-radius: 18px;
         background: white;
