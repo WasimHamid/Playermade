@@ -291,7 +291,7 @@ header {
     top: 55px;
 }
 
-@media screen and (max-width: 1019px) {
+@media screen and (max-width: 700px) {
     .text {
         color: white;
         margin: 27px;
@@ -300,8 +300,7 @@ header {
         font-weight: 300;
         letter-spacing: 0;
         line-height: 1.4;
-        position: absolute;
-        bottom: 3%;
+        margin-top: 400px;
     }
 }
 
