@@ -357,6 +357,21 @@ header {
     }
 }
 
+.Member-text p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 50px;
+    margin-bottom: 20px;
+    margin-top: 1px;
+}
+
+.Member-text h1 {
+    color: #fff;
+    margin-top: 0px;
+    font-size: 26px;
+}
+
 .card-image {
     grid-area: image;
     background: url(https://www.playermade.co.uk/img/invest.jpg);
