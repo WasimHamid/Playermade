@@ -342,7 +342,7 @@ header {
 }
 
 .Member-text p {
-    color: #fff;
+    color: white;
     font-size: 16px;
     font-weight: 300;
     margin: 50px;
@@ -351,13 +351,13 @@ header {
 }
 
 .Member-text h1 {
-    color: #fff;
+    color: white;
     margin-top: 0px;
     font-size: 26px;
 }
 
 .Training-text p {
-    color: #fff;
+    color: white;
     font-size: 16px;
     font-weight: 300;
     margin: 50px;
@@ -366,7 +366,7 @@ header {
 }
 
 .Training-text h2 {
-    color: #fff;
+    color: white;
     margin-top: 0px;
     font-size: 20px;
 }
