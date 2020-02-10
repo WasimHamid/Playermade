@@ -4,10 +4,6 @@ body {
     border: 0;
 }
 
-#content[tabindex="-1"] {
-    outline: none;
-}
-
 a:active,
 a:hover {
     outline: 0;
@@ -112,7 +108,7 @@ body {
 }
 
 h1 {
-    margin-bottom: .5em;
+    margin-bottom: .25em;
 }
 
 header {
@@ -343,17 +339,26 @@ header {
 
 .Member-text p {
     color: #fff;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 300;
-    margin: 50px;
+    margin: 12px;
     margin-bottom: 20px;
     margin-top: 1px;
 }
 
 .Member-text h1 {
     color: #fff;
-    margin-top: 0px;
+    margin-top: -30px;
     font-size: 26px;
+}
+
+.border-box {
+    border: 15px solid white;
+    padding: 35px;
+    margin: 50px;
+    width: 170px;
+    height: 90px;
+    margin-top: -46px;
 }
 
 .Training-text p {
