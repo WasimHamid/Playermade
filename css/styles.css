@@ -355,9 +355,16 @@ header {
 .border-box {
     border: 10px solid white;
     padding: 35px;
-    margin: 0 auto;
+    margin: -50px auto;
     width: 170px;
     height: 90px;
+    margin-bottom: 75px;
+}
+
+.vl {
+    border-left: 10px solid white;
+    height: 35px;
+    margin: -9px 0px -9px 75px;
 }
 
 .Training-text p {
