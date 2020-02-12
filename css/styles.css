@@ -339,9 +339,9 @@ header {
 
 .Member-text p {
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 300;
-    margin: 12px;
+    margin: 2px;
     margin-bottom: 20px;
     margin-top: 1px;
 }
@@ -356,7 +356,7 @@ header {
     border: 10px solid white;
     padding: 35px;
     margin: -50px auto;
-    width: 170px;
+    width: 210px;
     height: 90px;
     margin-bottom: 75px;
 }
@@ -364,7 +364,7 @@ header {
 .vl {
     border-left: 10px solid white;
     height: 30px;
-    margin: -10px 0px 0px 80px;
+    margin: -5px 0px 0px 100px;
 }
 
 .Training-text p {
