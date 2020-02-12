@@ -84,7 +84,7 @@ body {
         border-bottom: 1px solid #999;
         text-align: center;
         padding: 100px 0 0;
-        height: 600px;
+        height: 625px;
         width: 100%;
         background: #000000;
     }
@@ -288,15 +288,14 @@ header {
 }
 
 @media screen and (max-width: 700px) {
-    .text {
+    .text-content p {
         color: white;
-        margin: 27px;
         font-family: Graphik Web, Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;
         font-size: 24px;
         font-weight: 300;
         letter-spacing: 0;
         line-height: 1.4;
-        margin-top: 400px;
+        margin-top: 450px;
     }
 }
 
