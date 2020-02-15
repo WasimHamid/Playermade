@@ -315,9 +315,9 @@ header {
 
 .Member-text p {
     color: white;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 300;
-    margin: 2px;
+    margin: 10px;
     margin-bottom: 20px;
     margin-top: 1px;
 }
