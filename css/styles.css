@@ -509,3 +509,7 @@ img {
     background-size: cover;
 }
 
+#Abstract { 
+    background-image: url(../img/black.jpg); 
+    background-size: cover;
+}
