@@ -405,7 +405,7 @@ header {
 }
 
 .playermade {
-    width: 50%;
+    width: 55%;
     margin-bottom: 22px;
     margin-top: 50px;
 }
@@ -431,7 +431,7 @@ img {
 
 .blackbox p {
     color: white;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .screenbox {
