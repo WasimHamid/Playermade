@@ -468,3 +468,10 @@ img {
     color: white;
     font-size: 22px;
 }
+
+#Become-Member { 
+    background-image: url(../img/black.jpg); 
+    background-size: cover;
+}
+
+
