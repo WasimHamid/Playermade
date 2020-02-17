@@ -82,13 +82,27 @@
 
         <section id="Testimonials">
             <img typeof="foaf:Image" class="img-responsive2" src="https://www.playermade.co.uk/img/home.jpg" width="501" height="600" alt="">
-            <div class="screenbox4">
-                <h2>Samantha Orton</h2>
-                <p>"My daughter is definitely stronger, more confident and fitter since joining Playermade, but most off all she enjoys going and always has a smile on her face after every session." (Blaby & Whetstone and Leicester Ladies - Football)</p>
-                <!-- <h2>Julie Smith</h2>
-                <p>"I have nothing but high praise for Playermade, our daughter has been attending their classes since the summer 2018 and has made new friends, grown in strength, speed and her balance has also improved. England have also noticed a big difference
-                    in her strength and movement since she has been attending."(Leicester Ladies and England - Football)</p> -->
-            </div>
+            <div class="slideshow-container">
+                <div class="mySlides">
+                  <q>"My daughter is definitely stronger, more confident and fitter since joining Playermade, but most off all she enjoys going and always has a smile on her face after every session."</q>
+                  <p class="author">- Samantha Orton (Blaby & Whetstone and Leicester Ladies)</p>
+                </div>
+
+                <div class="mySlides">
+                  <q>"I have nothing but high praise for Playermade, our daughter has been attending their classes since the summer 2018 and has made new friends, grown in strength, speed and her balance has also improved. England have also noticed a big difference
+                    in her strength and movement since she has been attending."</q>
+                  <p class="author">- Julie Smith (Leicester Ladies and England)</p>
+                </div>
+                
+                <a class="prev" onclick="plusSlides(-1)">❮</a>
+                <a class="next" onclick="plusSlides(1)">❯</a>
+                
+                </div>
+                
+                <div class="dot-container">
+                  <span class="dot" onclick="currentSlide(1)"></span> 
+                  <span class="dot" onclick="currentSlide(2)"></span> 
+                </div>
         </section>
 
         <section id="Abstract">
@@ -112,15 +126,11 @@
 
     </main>
 
-    <!-- <footer class="footer">
-        
-        <p>&copy; Playermade</p>
-    </footer> -->
-
     <script src="js/fastclick.js"></script>
     <script src="js/scroll.js"></script>
     <script src="js/responsive-nav.js"></script>
     <script src="js/fixed-responsive-nav.js"></script>
+    <script src="js/index.js"></script>
 </body>
 
 </html>
