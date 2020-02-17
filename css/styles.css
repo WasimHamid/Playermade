@@ -506,6 +506,10 @@ img {
     }
 }
 
+.video {
+    Color: white;
+}
+
 #Become-Member { 
     background-image: url(../img/black.jpg); 
     background-size: cover;
