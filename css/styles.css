@@ -594,7 +594,7 @@ q {font-style: italic;}
 }
 
 .social-row {
-    margin: 5px 0 0 105px;
+    margin: 5px;
     display: inline-block;
     text-align: center;
     float: none;
