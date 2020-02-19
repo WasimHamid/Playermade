@@ -75,7 +75,7 @@ body {
 		background: #000000;
 	}
 }
-@media screen and (min-width: 701px) and (max-width: 1500px) {
+@media screen and (min-width: 701px) {
 	section {
 		border-bottom: 1px solid #999;
 		text-align: center;
