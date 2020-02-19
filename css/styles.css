@@ -594,7 +594,7 @@ q {font-style: italic;}
 }
 
 .social-row {
-    margin: 5px;
+    margin: 30px;
     display: inline-block;
     text-align: center;
     float: none;
@@ -617,4 +617,5 @@ q {font-style: italic;}
 
 #Contact {
     background: white;
+    height: 350px;
 }
