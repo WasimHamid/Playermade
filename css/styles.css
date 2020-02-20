@@ -453,6 +453,10 @@ img {
 .slideshow-container {
 	margin-top: -100px;
 }
+
+.slideshow-container h1 {
+	color: white
+}
 .mySlides {
 	display: none;
 	padding: 18px;
