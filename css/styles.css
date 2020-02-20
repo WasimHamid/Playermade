@@ -341,6 +341,7 @@ img {
 	.blackbox p {
 		color: white;
 		font-size: 40px;
+                font-weight: bold;
 	}
 	.playermade {
 		width: 10%;
