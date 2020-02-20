@@ -246,7 +246,7 @@ header {
 }
 .Member-text p {
 	color: white;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 300;
 	margin: -2px;
 	margin-bottom: 20px;
@@ -268,7 +268,7 @@ header {
 .vl {
 	border-left: 10px solid white;
 	height: 30px;
-	margin: -10px 0px 0px 110px;
+	margin: -11px 0px 0px 110px;
 }
 .vl2 {
 	border-left: 10px solid white;
