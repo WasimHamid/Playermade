@@ -259,11 +259,11 @@ header {
 }
 .border-box {
 	border: 10px solid white;
-	padding: 35px;
-	margin: -50px auto;
-	width: 235px;
-    	height: 95px;
-	margin-bottom: 75px;
+    	padding: 35px;
+    	margin: -75px auto;
+    	width: 240px;
+    	height: 115px;
+    	margin-bottom: 105px;
 }
 .vl {
 	border-left: 10px solid white;
