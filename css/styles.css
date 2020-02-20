@@ -385,11 +385,11 @@ img {
 	margin-top: -10px;
 }
 .screenbox p {
-	color: white;
+	color: black;
 	font-size: 18px;
 }
 .screenbox h2 {
-	color: white;
+	color: black;
 	font-size: 25px;
 }
 .screenbox3 {
@@ -426,11 +426,11 @@ img {
 	margin-top: 30px;
 }
 .screenbox2 p {
-	color: black;
+	color: white;
 	font-size: 13px;
 }
 .screenbox2 h2 {
-	color: black;
+	color: white;
 	font-size: 22px;
 }
 .video {
