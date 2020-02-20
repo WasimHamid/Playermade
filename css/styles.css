@@ -379,11 +379,13 @@ img {
 		margin-top: 100px;
 	}
 	.blackbox-text {
-		color: #f8e71c
+		color: #f8e71c;
+		font-size: 26px;
+		font-weight: bold;
 	}
-	.blackbox p {
+	.blackbox-text2 {
 		color: white;
-		font-size: 24px;
+		font-size: 26px;
 		font-weight: bold;
 	}
 }
