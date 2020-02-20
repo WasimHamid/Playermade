@@ -455,7 +455,7 @@ img {
 }
 
 .slideshow-container h1 {
-	color: white
+	color: #f8e71c
 }
 .mySlides {
 	display: none;
@@ -501,7 +501,7 @@ q {
 	font-style: italic;
 }
 .author {
-	color: cornflowerblue;
+	color: white;
 }
 .contact-text {
 	text-align: center;
