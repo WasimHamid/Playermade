@@ -451,6 +451,7 @@ img {
 	display: none;
 	padding: 18px;
 	text-align: center;
+	color: white;
 }
 .prev, .next {
 	cursor: pointer;
