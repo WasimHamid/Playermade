@@ -445,8 +445,7 @@ img {
 	font-size: 10px;
 }
 .slideshow-container {
-	position: relative;
-	background: #f1f1f1f1;
+	margin-top: -100px;
 }
 .mySlides {
 	display: none;
@@ -473,7 +472,6 @@ img {
 .dot-container {
 	text-align: center;
 	padding: 15px;
-	background: #ddd;
 }
 .dot {
 	cursor: pointer;
