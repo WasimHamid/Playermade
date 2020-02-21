@@ -273,13 +273,8 @@ header {
 }
 .vl {
 	border-left: 10px solid white;
-	height: 30px;
-	margin: -11px 0px 0px 110px;
-}
-.vl2 {
-	border-left: 10px solid white;
-	height: 30px;
-	margin: 50px 0px 0px 110px;
+	height: 35px;
+	margin: 35px 0px 0px 110px;
 }
 .Training-text p {
 	color: white;
