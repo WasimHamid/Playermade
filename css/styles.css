@@ -72,7 +72,7 @@ body {
 		padding: 100px 0 0;
 		height: 650px;
 		width: 100%;
-		background: #000000;
+		background: white;
 	}
 }
 @media screen and (min-width: 701px) {
@@ -82,7 +82,7 @@ body {
 		padding: 100px 0 0;
 		height: 850px;
 		width: 100%;
-		background: #000000;
+		background: white;
 	}
 }
 .screen {
@@ -406,7 +406,7 @@ img {
 .screenbox3 p {
 	color: white;
 	font-size: 15px;
-	margin: 13px;
+	margin: 11px;
 }
 .screenbox3 h1 {
 	color: white;
@@ -531,17 +531,11 @@ q {
 	background-image: url(../img/black.jpg);
 	background-size: cover;
 }
-#Movement-Screen {
-	background: white;
-}
-#Train2 {
-	background: white;
-}
 #Testimonials {
-	height: 250px
+	height: 250px;
+	background: black;
 }
 
 #Contact {
-	background: white;
 	height: 350px;
 }
