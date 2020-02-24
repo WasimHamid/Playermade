@@ -450,7 +450,7 @@ q {
 .maps {
 	margin-top: -9px;
 }
-@media screen and (max-height: 600px) {
+@media screen and (max-height: 580px) {
 	.Abstract-text p {
 		color: white;
 		font-size: 16px;
