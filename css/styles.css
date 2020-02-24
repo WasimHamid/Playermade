@@ -249,7 +249,7 @@ header {
 	border: 10px solid white;
     	padding: 35px;
     	margin: -75px auto;
-		width: 230px;
+        width: 240px;
     	height: 115px;
     	margin-bottom: 105px;
 }
@@ -257,11 +257,6 @@ header {
 	border-left: 10px solid white;
 	height: 35px;
 	margin: 35px 0px 0px 110px;
-}
-.vl1 {
-	border-left: 10px solid white;
-    height: 48px;
-    margin: 27px 0px 0px 110px;
 }
 .Training-text p {
 	color: white;
