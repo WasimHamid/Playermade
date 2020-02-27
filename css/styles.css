@@ -222,11 +222,6 @@ header {
 	font-size: 35px;
 	content: "\78";
 }
-.footer {
-	border-top: 1px solid hsla(0, 0%, 100%, .2);
-	text-align: center;
-	color: black;
-}
 .Member-text p {
 	color: white;
 	font-size: 18px;
@@ -235,7 +230,7 @@ header {
 	margin-bottom: 20px;
 	margin-top: 1px;
 }
-.Member-text2 h1 {
+.Specialist-text h1 {
 	color: white;
 	margin-top: -30px;
 	font-size: 24px;
@@ -243,6 +238,11 @@ header {
 .Member-text h1 {
 	color: #f8e71c;
 	margin-top: -30px;
+	font-size: 26px;
+}
+.Testimonial-text h1 {
+	color: #f8e71c;
+	margin-top: -75px;
 	font-size: 26px;
 }
 .border-box {
@@ -294,7 +294,7 @@ header {
 	-ms-user-select: none;
 	user-select: none;
 }
-.img-responsive2 {
+.img-responsive {
 	display: block;
 	max-width: 100%;
 	width: 100%;
@@ -323,10 +323,6 @@ img {
 	}
 	.playermade {
 		width: 10%;
-	}
-	.video {
-		width: 10%;
-		height: 10%;
 	}
 }
 @media screen and (max-width: 700px) {
@@ -368,11 +364,6 @@ img {
 .Abstract-text h1 {
 	color: white;
 }
-.video {
-	Color: white;
-	margin-top: -100px;
-	font-size: 10px;
-}
 .contact-text {
 	text-align: center;
 	margin: 0px;
@@ -397,8 +388,11 @@ img {
 .maps {
 	margin-top: -9px;
 }
+.line {
+	margin: -2px;
+}
 @media screen and (min-width: 800px) {
-	.img-responsive2 {
+	.img-responsive {
 		display: block;
     	max-width: 100%;
     	width: 100%;
