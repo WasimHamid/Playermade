@@ -420,6 +420,35 @@ img {
 	.playermade {
 		width: 20%;
 	}
+	.vl {
+		border-left: 0px;
+	}
+	.border-box {
+		border: 10px solid white;
+    	padding: 66px;
+    	margin: 135px auto;
+    	width: 220px;
+    	height: 235px;
+	}
+	.flex {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.Member-text p {
+    	font-size: 28px;
+    	margin: -57px;
+    	margin-bottom: 20px;
+    	margin-top: 1px;
+	}
+	.Member-text h1 {
+    	margin-top: -50px;
+    	font-size: 35px;
+	}
+	.Specialist-text h1 {
+		margin-top: -60px;
+    	font-size: 21px;
+	}
 }
 #Become-Member {
 	background-image: url(../img/black.jpg);
